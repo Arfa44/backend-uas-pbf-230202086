@@ -37,6 +37,8 @@ Ikuti langkah-langkah di bawah untuk menjalankan backend secara lokal:
 # 1. Clone Repository
 
 ### git clone https://github.com/Arfa44/backend-uas-pbf-230202086.git
+
+# 2. Masuk ke folder project
 ### cd backend-uas-pbf-230202086
 
 
